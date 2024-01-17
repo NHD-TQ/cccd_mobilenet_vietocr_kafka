@@ -1,0 +1,3 @@
+Các vấn đề cần khắc phục proj cccd:
+1. nhận diện 4 góc (cần training model tốt hơn thì mới đạt được hiệu quả cao)
+2. đối với các nhãn có nhiều dòng ví dụ như nguyên quán và thường trú cần tách ra thành 2 class riêng biệt và training lại (tránh bị đảo lộn vị trí)
